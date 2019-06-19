@@ -27,7 +27,7 @@ Contributions to this collection are welcome. Contributions may be made through 
 You can also contact us through the Evil Mad Scientist [contact form](https://shop.evilmadscientist.com/contact).
 
 Please keep in mind the following guidelines:
-*  Fonts should be in the SVG font format and tested to work well with Hershey Text.
+*  Fonts should be in the [SVG 1.1 font format](https://www.w3.org/TR/SVG11/fonts.html) and tested to work well with Hershey Text.
 *  Matched pairs consisting of an SVG font plus a matching TTF or OTF font are welcome. 
 Font pairs like this should be tested to work well for automatic substitution in Hershey Text.
 *  Fonts should be licensed in such a way that they are compatible with open source distribution.

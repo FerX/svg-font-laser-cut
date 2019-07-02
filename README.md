@@ -44,7 +44,7 @@ SVG font name | A derivative of | Designer | Reference
 --------------|-----------------|----------|-------------
 EMS Allure | Allura | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [Google Font Page](https://fonts.google.com/specimen/Allura)
 EMS Bird | Bilbo | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [Google Font Page](https://fonts.google.com/specimen/Bilbo)
-EMS Bird Swash Caps | Bilbo Swash Cap | [Rob Leuschke, TypeSETit](http://www.typesetit.com | [Google Font Page](https://fonts.google.com/specimen/Bilbo+Swash+Caps)
+EMS Bird Swash Caps | Bilbo Swash Cap | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [Google Font Page](https://fonts.google.com/specimen/Bilbo+Swash+Caps)
 EMS Brush | Alex Brush | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [Google Font Page](https://fonts.google.com/specimen/Alex+Brush)
 EMS Capitol | Sacramento | [Brian J. Bonislawsky, Astigmatic One Eye Typographic Institute](http://www.astigmatic.com) | [Google Font Page](https://fonts.google.com/specimen/Sacramento)
 EMS Casual Hand | Covered By Your Grace | [Kimberly Geswein, Kimberly Geswein Fonts](http://www.kimberlygeswein.com/) | [Google Font Page](https://fonts.google.com/specimen/Covered+By+Your+Grace)
@@ -66,7 +66,7 @@ EMS Qwandry | Qwigley | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [G
 EMS Readability | Source Sans Pro-Light | [Paul D. Hunt, Adobe](http://www.adobe.com) | [Google Font Page](https://fonts.google.com/specimen/Source+Sans+Pro)
 EMS Readability Italic | Source Sans Pro-Light | [Paul D. Hunt, Adobe](http://www.adobe.com) | [Google Font Page](https://fonts.google.com/specimen/Source+Sans+Pro)
 EMS Society | Mrs Saint Delafield | [Alejandro Paul, Sudtipos](http://www.sudtipos.com) | [Google Font Page](https://fonts.google.com/specimen/Mrs+Saint+Delafield)
-EMS SpaceRocks | Ed Logg's Asteroids font | [Trammell Hudson, Space Rocks](https://trmm.net/Asteroids_font) | (No Google Font Page)
+EMS SpaceRocks | Ed Logg's Asteroids font | [Trammell Hudson](https://trmm.net/) | [Asteroids Font](https://trmm.net/Asteroids_font)
 EMS Swiss | Italianno | [Rob Leuschke, TypeSETit](http://www.typesetit.com) | [Google Font Page](https://fonts.google.com/specimen/Italianno)
 EMS Tech | Architects Daughter | [Kimberly Geswein, Kimberly Geswein Fonts](http://www.kimberlygeswein.com/) | [Google Font Page](https://fonts.google.com/specimen/Architects+Daughter)
 

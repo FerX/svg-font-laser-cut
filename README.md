@@ -34,7 +34,7 @@ The classic Hershey fonts included are derived from
 work by Dr. A. V. Hershey.
 
 Additional modern "EMS" fonts in this distribution are
-derivatives created from fonts licensed under the [SIL Open Font LIcense](https://scripts.sil.org/OFL). Credit and links for these fonts are given below.
+derivatives created from fonts licensed under the [SIL Open Font License](https://scripts.sil.org/OFL). Credit and links for these fonts are given below.
 Please see the individual font files for additional information.
 
 

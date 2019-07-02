@@ -344,6 +344,18 @@ Please see the individual font files for additional information.
 
 <tr>
 
+<td>EMS SpaceRocks</td>
+
+<td>Ed Logg's Asteroids font</td>
+
+<td>[Trammell Hudson, Space Rocks](https://trmm.net/Asteroids_font)</td>
+
+<td>(No Google Font Page)</td>
+
+</tr>
+
+<tr>
+
 <td>EMS Swiss</td>
 
 <td>Italianno</td>

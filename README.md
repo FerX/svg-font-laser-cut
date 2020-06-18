@@ -56,7 +56,7 @@ EMS Felix | Felipa | [Fontstage](https://twitter.com/fontstage) | [Google Font P
 EMS Herculean | Poiret One | [Denis Masharov](https://www.myfonts.com/foundry/Denis_Masharov/) | [Google Font Page](https://fonts.google.com/specimen/Poiret+One)
 EMS Invite | Tangerine | [Toshi Omagari](http://tosche.net/about) | [Google Font Page](https://fonts.google.com/specimen/Tangerine)
 EMS League | League Script | [Haley Fiege, the League of Moveable Type](https://www.theleagueofmoveabletype.com) | [Google Font Page](https://fonts.google.com/specimen/League+Script)
-EMS Little Princess | Princess Sofia | [Crystal Kluge, Tart Workshop](http://www.tartworkshop.com) | [Google Font Page](https://fonts.google.com/specimen/Allura)
+EMS Little Princess | Princess Sofia | [Crystal Kluge, Tart Workshop](http://www.tartworkshop.com) | [Google Font Page](https://fonts.google.com/specimen/Princess+Sofia)
 EMS Misty Night | Foglihten No03 | [Grzegorz L, GLUK fonts](http://www.glukfonts.pl) | [FontSquirrel Page](https://www.fontsquirrel.com/fonts/foglihten)
 EMS Neato | Bad Script | [Roman Shchyukin, Gaslight](https://www.myfonts.com/foundry/Gaslight/) | [Google Font Page](https://fonts.google.com/specimen/Bad+Script)
 EMS Osmotron | Orbitron (Regular) | [Matt McInerney, the League of Moveable Type](https://www.theleagueofmoveabletype.com) | [Google Font Page](https://fonts.google.com/specimen/Orbitron)

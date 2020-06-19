@@ -59,6 +59,7 @@ EMS League | League Script | [Haley Fiege, the League of Moveable Type](https://
 EMS Little Princess | Princess Sofia | [Crystal Kluge, Tart Workshop](http://www.tartworkshop.com) | [Google Font Page](https://fonts.google.com/specimen/Princess+Sofia)
 EMS Misty Night | Foglihten No03 | [Grzegorz L, GLUK fonts](http://www.glukfonts.pl) | [FontSquirrel Page](https://www.fontsquirrel.com/fonts/foglihten)
 EMS Neato | Bad Script | [Roman Shchyukin, Gaslight](https://www.myfonts.com/foundry/Gaslight/) | [Google Font Page](https://fonts.google.com/specimen/Bad+Script)
+EMS Nixish | Nixie One| [Jovanny Lemonad](http://jovanny.ru) | [Google Font Page](https://fonts.google.com/specimen/Nixie+One)
 EMS Osmotron | Orbitron (Regular) | [Matt McInerney, the League of Moveable Type](https://www.theleagueofmoveabletype.com) | [Google Font Page](https://fonts.google.com/specimen/Orbitron)
 EMS Pancakes | Short Stack | [James Grieshaber, Typeco](http://www.typeco.com) | [Google Font Page](https://fonts.google.com/specimen/Short+Stack)
 EMS Pepita | Pecita | [Philippe Cochy](http://pecita.eu/police-en.php) | [FontSquirrel Page](https://www.fontsquirrel.com/fonts/Pecita)

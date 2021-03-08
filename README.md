@@ -17,7 +17,7 @@ Please keep in mind the following guidelines:
 Font pairs like this should be tested to work well for automatic substitution in Hershey Text.
 *  Fonts need not be stroke-based. Compatible SVG outline fonts, color fonts, and other novel styles are welcome.
 *  Fonts should be licensed in such a way that they are compatible with open source distribution.
-Where possible, we recommend to use the [SIL Open Font LIcense](https://scripts.sil.org/OFL) or a public
+Where possible, we recommend to use the [SIL Open Font License](https://scripts.sil.org/OFL) or a public
 domain declaration. In cases of license ambiguity or more restrictive licensing terms, please ask.
 *  Font credit and license information should ideally be embedded within the font file metadata.
 *  Font credit and license information may also be included in separate readme file.

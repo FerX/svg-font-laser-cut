@@ -25,7 +25,8 @@ x-height="300"
 />
 <missing-glyph horiz-adv-x="378" />
 <glyph unicode=" " glyph-name="space" horiz-adv-x="378" />
-<glyph unicode="!" glyph-name="exclam" horiz-adv-x="246" d="M 172 658 L 172 101" />
+<glyph unicode="!" glyph-name="exclam" horiz-adv-x="246" d="M 172 658 L 172 101
+M 172 0 L 142 -30 172 -60 202 -30 172 0 " />
 <glyph unicode="&#x22;" glyph-name="quotedbl" horiz-adv-x="287" d="M 101 709 L 101 573 M 192 709 L 192 573" />
 <glyph unicode="#" glyph-name="numbersign" horiz-adv-x="649" d="M 88.2 12.6 L 375 658 M 284 12.6 L 570 658 M 47.2 432 L 598 432 M 47.2 268 L 598 268" />
 <glyph unicode="$" glyph-name="dollar" horiz-adv-x="501" d="M 243 -50.4 L 243 712 M 59.9 91.4 L 113 40.9 L 176 9.45 L 230 0 L 299 12.6 L 372 56.7 L 419 129 L 428 195 L 413 277 L 365 324 L 302 359 L 236 394 L 173 422 L 123 466 L 101 513 L 110 583 L 145 627 L 195 658 L 249 668 L 299 658 L 340 639 L 372 611" />
